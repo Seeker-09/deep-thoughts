@@ -2,7 +2,7 @@
 
 ## Description
 
-In this project, I learned hot to create a social media clone using numerous different technologies, but mainly developing on the MERN stack.
+In this project, I learned how to create a social media clone using numerous different technologies, but mainly developing on the MERN stack.
 
 ## Usage
 
@@ -10,7 +10,7 @@ Users will need to sign up first in order to access the functionality of the sit
 
 Provide instructions and examples for use. Include screenshots as needed.
 
-## Technologies Used
+## Important Technologies Used
 
 - MERN
 - GraphQL
