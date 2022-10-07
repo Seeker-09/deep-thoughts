@@ -14,3 +14,7 @@ Users will need to sign up first in order to access the functionality of the sit
 - GraphQL
 - Apollo
 - JSON Web Token
+
+## Deployed Application
+
+https://deep-thoughts-29428.herokuapp.com/
